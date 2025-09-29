@@ -1,6 +1,8 @@
 # Jocelyn Lawrence - Portfolio Website
 
-This is my personal portfolio website built with Next.js and Tailwind CSS. It showcases my projects, skills, and experiences in web development and design.
+This is my personal portfolio website built with Next.js and Tailwind CSS. It showcases my projects, skills, and experiences.
+
+Live Demo: [jocelyn-lawrence-portfolio.vercel.app](https://jocelyn-lawrence-portfolio.vercel.app/)
 
 ## Features
 - About Me section
