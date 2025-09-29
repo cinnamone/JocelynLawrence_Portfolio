@@ -87,7 +87,7 @@ export const site = {
     title: "Contact",
     methods: [
       { label: "Email", href: "mailto:celyn1celyn@gmail.com" },
-      { label: "LinkedIn", href: "https://www.linkedin.com/in/jocelyn-lawrence-88a3a12b8/" },
+      { label: "LinkedIn", href: "https://www.linkedin.com/in/jocelyn-lawrence" },
       { label: "GitHub", href: "https://github.com/cinnamone" },
       { label: "Phone", href: "tel:+6287778555995" },
     ],
