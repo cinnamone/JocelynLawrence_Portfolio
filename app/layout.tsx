@@ -15,7 +15,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Jocelyn Lawrence Portfolio",
   description: "Jocelyn Lawrence Portfolio",
-  generator: "v0.app",
+  generator: "",
 }
 
 export default function RootLayout({

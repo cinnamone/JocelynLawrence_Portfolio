@@ -17,7 +17,6 @@ export const site = {
     id: "about",
     title: "About Me",
     body: "Hi! I’m Celyn, a 5th semester Computer Science student specializing in Software Engineering. I enjoy designing and building web interfaces, and I’m currently learning backend development to expand my skills.",
-    photoAlt: "/Me.jpg",
   },
   projects: {
     id: "projects",
@@ -27,8 +26,8 @@ export const site = {
         title: "Portfolio Website",
         description: "A personal showcase of my projects, skills, and creative work in web development and design, built with a focus on simplicity and user-friendly experience.",
         href: "#",
-        image: "/Me.jpg",
-        github: "https://github.com/yourname/bubbly-ui-kit",
+        image: "/WebPortfolio.png",
+        github: "https://github.com/cinnamone/JocelynLawrence_Portfolio.git",
       },
       {
         title: "SecondServe",

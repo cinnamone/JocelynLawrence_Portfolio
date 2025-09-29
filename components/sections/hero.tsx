@@ -1,7 +1,6 @@
 "use client"
 
 import { Button } from "@/components/ui/button"
-import Image from "next/image"
 
 type HeroData = {
   id: string
@@ -22,7 +21,7 @@ export function Hero({ data }: { data: HeroData }) {
       </div>
 
       <div className="mx-auto max-w-6xl px-4">
-        <div className="grid grid-cols-1 items-center gap-8 md:grid-cols-2">
+        <div className="grid grid-cols-1 items-center gap-8">
           <div>
             <h1 className="text-balance text-4xl font-semibold leading-tight md:text-5xl">{data.name}</h1>
             <p className="mt-4 text-lg text-muted-foreground">{data.tagline}</p>
@@ -42,18 +41,6 @@ export function Hero({ data }: { data: HeroData }) {
                   </Button>
                 ) : null}
               </div>
-            </div>
-          </div>
-
-          <div className="flex justify-center md:justify-end">
-            <div className="relative aspect-square w-48 overflow-hidden rounded-3xl border bg-card md:w-64">
-              <Image
-                src="/public/placeholder-user.jpg"
-                alt="Profile"
-                fill
-                sizes="(min-width: 768px) 256px, 192px"
-                className="object-cover"
-              />
             </div>
           </div>
         </div>
