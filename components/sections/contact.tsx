@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Mail, Phone, Github, Linkedin, Globe } from "lucide-react"
+import { Mail, Phone, Github, Linkedin, Globe } from 'lucide-react'
 
 type ContactMethod = { label: string; href: string }
 type ContactData = { id: string; title: string; methods: ContactMethod[] }
@@ -24,7 +24,7 @@ export function Contact({ data }: { data: ContactData }) {
             <CardTitle className="text-lg">Get in touch</CardTitle>
           </CardHeader>
           <CardContent>
-            <ul className="grid grid-cols-1 gap-3 md:grid-cols-2">
+            <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
               {data.methods.map((m, idx) => {
                 const Icon = getIcon(m.label, m.href)
                 return (
@@ -34,7 +34,7 @@ export function Contact({ data }: { data: ContactData }) {
                       className="group flex items-center gap-3 rounded-xl border border-transparent p-3 transition hover:-translate-y-0.5 hover:border-border hover:bg-muted/40 focus:outline-none"
                     >
                       <span
-                        className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 text-primary"
+                        className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 text-primary flex-shrink-0"
                         aria-hidden="true"
                       >
                         <Icon className="h-5 w-5" />
