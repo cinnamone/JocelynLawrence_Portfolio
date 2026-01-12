@@ -31,7 +31,7 @@ export const site = {
       },
       {
         title: "SecondServe",
-        description: "A platform that promotes sustainable fashion by giving sports gear and apparel a second life through resale and reuse. (Group project)",
+        description: "Second Serve is a platform that gives unused or surplus items a second chance by connecting them with people who need them, helping reduce waste and support sustainability. (Group project)",
         href: "#",
         image: "/SecondServe.png",
         figma: "https://www.figma.com/design/iC9iEyKdIURjpKuW3RCT8t/Techfest?node-id=261-1646&t=vRrYrwfXvSHmCjAK-1",
