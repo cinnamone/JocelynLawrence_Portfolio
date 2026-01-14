@@ -59,13 +59,6 @@ export const site = {
         figma: "https://www.figma.com/design/fWcPcNaDbcxYbkqoeAATly/GrocerEase?node-id=0-1&t=sKyxyGne91c8gIww-1",
         github: "https://github.com/AoL-GrocerEase/GrocerEase.git",
       },
-      {
-        title: "ASL Sign Language Recognition",
-        description: "An interactive tool that recognizes hand and finger motions to identify and display the corresponding alphabet in American Sign Language. (Group project)",
-        href: "#",
-        image: "/ASL.png",
-        github: "https://github.com/IntanWp/Hand-Sign-Language-Detection.git",
-      },
     ],
   },
   skills: {
