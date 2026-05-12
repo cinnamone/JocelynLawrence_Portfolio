@@ -14,7 +14,7 @@ export default function HomePage() {
     <main>
       <Navbar />
       <Hero data={site.hero} />
-      <About data={site.about} />
+      {/* <About data={site.about} />*/}
       <Projects data={site.projects} />
       <Skills data={site.skills} />
       <Contact data={site.contact} />

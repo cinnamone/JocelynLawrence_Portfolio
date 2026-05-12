@@ -59,6 +59,13 @@ export const site = {
         figma: "https://www.figma.com/design/fWcPcNaDbcxYbkqoeAATly/GrocerEase?node-id=0-1&t=sKyxyGne91c8gIww-1",
         github: "https://github.com/AoL-GrocerEase/GrocerEase.git",
       },
+      {
+        title: "Rock Paper Scissors Game",
+        description: "Rock Paper Scissors game built using JavaScript with interactive gameplay, score tracking, and responsive user interface.",
+        href: "#",
+        image: "/RPS-game.png",        
+        github: "https://github.com/cinnamone/rps-game",
+      },
     ],
   },
   skills: {
