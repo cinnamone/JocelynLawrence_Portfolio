@@ -9,14 +9,14 @@ export const site = {
   hero: {
     id: "home",
     name: "Jocelyn Lawrence",
-    tagline: "Computer Science — Software Engineering Student, 5th Semester",
+    tagline: "Computer Science — Software Engineering Student, 7th Semester",
     cta: { label: "View My Work", href: "#projects" },
-    cv: { label: "Download CV", href: "/Jocelyn Lawrence_CV.pdf" },
+    cv: { label: "Download CV", href: "/Jocelyn Lawrence-resume.pdf" },
   },
   about: {
     id: "about",
     title: "About Me",
-    body: "Hi! I’m Celyn, a 5th semester Computer Science student specializing in Software Engineering. I enjoy designing and building web interfaces, and I’m currently learning backend development to expand my skills.",
+    body: "Hi! I’m Celyn, a 7th semester Computer Science student specializing in Software Engineering. I enjoy designing and building web interfaces, and I’m currently learning backend development to expand my skills.",
   },
   projects: {
     id: "projects",
