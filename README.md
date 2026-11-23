@@ -39,4 +39,4 @@ Live Demo: [jocelyn-lawrence-portfolio.vercel.app](https://jocelyn-lawrence-port
 - LinkedIn: [Portfolio](https://www.linkedin.com/in/jocelyn-lawrence-88a3a12b8/)
 
 ---
-✨ Built with passion and creativity ✨
+
